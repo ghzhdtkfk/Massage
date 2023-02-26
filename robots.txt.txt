@@ -1,0 +1,2 @@
+User-agent: * Allow: /
+Sitemap: https://blogunteer.neocities.org/sitemap.xml
